@@ -8,7 +8,7 @@ I am Paarth Sahni, an AI and Data Engineer passionate about building intelligent
 
 - 🔭 Currently working on projects in **Deep Learning, AI, and Data Science**.
 - 🌱 Continuously learning and experimenting with **Transformer models, Vision Transformers, and Large Language Models**.
-- 🤝 Looking to collaborate on **AI research, data analysis, and optimization problems**.
+- 🤝 Looking to collaborate on **AI research, data analysis, AI engineering and optimization problems**.
 - 💬 Ask me about **TensorFlow, PyTorch, Keras, Python, NLP, and data visualization**.
 - 📫 How to reach me: paarthsahni112@gmail.com
 - 🎵 Fun fact: I enjoy **exploring the intersection of AI and creative fields like space and healthcare**.
