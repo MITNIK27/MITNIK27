@@ -3,7 +3,8 @@
 I am Paarth Sahni, an AI and Data Engineer passionate about building intelligent systems using Deep Learning, Machine Learning, and Data Science. I have hands-on experience in NLP, Computer Vision, and optimization techniques, with a strong research focus on AI applications in cybersecurity and the Indian Constitution. I have worked on projects like Small Language Models (SLMs), agent-based modeling (ABM) for cybersecurity, car damage detection using deep learning, and large-scale data extraction using APIs and OpenStreetMap. I enjoy developing scalable AI solutions, exploring optimization algorithms, and continuously expanding my expertise in AI-driven problem-solving.
 
 ---
-
+🌐 **Portfolio:** [portfolio-website-psi-eight-93.vercel.app](https://portfolio-website-psi-eight-93.vercel.app)  
+---
 ## 🚀 About Me
 
 - 🔭 Currently working on projects in **Deep Learning, AI, and Data Science**.
