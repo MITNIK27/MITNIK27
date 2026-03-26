@@ -11,7 +11,7 @@ I am Paarth Sahni, an AI and Data Engineer passionate about building intelligent
 - 🌱 Continuously learning and experimenting with **Transformer models, Vision Transformers, and Large Language Models**.
 - 🤝 Looking to collaborate on **AI research, data analysis, AI engineering and optimization problems**.
 - 💬 Ask me about **TensorFlow, PyTorch, Keras, Python, NLP, and data visualization**.
-- 📫 How to reach me: paarthsahni112@gmail.com
+- 📫 How to reach me: paarthsahni112@gmail.com | [Portfolio Contact](https://portfolio-website-psi-eight-93.vercel.app/contact)
 - 🎵 Fun fact: I enjoy **exploring the intersection of AI and creative fields like space and healthcare**.
 
 ---
@@ -27,10 +27,16 @@ I am Paarth Sahni, an AI and Data Engineer passionate about building intelligent
 
 ## 📌 Featured Projects
 
+- 🛰 **Satellite Image Analysis** - Deep learning on satellite imagery for geospatial insights.
 - 🚗 **Car Damage Detection** - Deep learning-based segmentation model using U-Net.
 - 🤖 **Small Language Model (SLM)** - Custom AI model built for efficient question-answering.
 - 🕵️ **AI for Cybersecurity** - Agent-Based Modeling (ABM) applied to cybersecurity research.
 - 🗺 **Data Extraction & Analysis** - Restaurant data scraping using OpenStreetMap & Foursquare API.
 
 ---
+---
+
+## 🌐 Portfolio
+Check out my full portfolio with all projects, work experience, and tech stack:
+👉 [portfolio-website-psi-eight-93.vercel.app](https://portfolio-website-psi-eight-93.vercel.app)
 
